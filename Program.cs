@@ -10,7 +10,7 @@ namespace AlgorithmProblems
     {
         static void Main(string[] args)
         {
-            // Just call the methods of static class Algorithms. For example:
+            // Just call the methods of static class MyAlgorithms. For example:
 
             MyAlgorithms.FindFactorial();
 
